@@ -2,7 +2,7 @@
 
 Code for Face Hallucination With Finishing Touches (TIP 2021). 
 
-!https://ieeexplore.ieee.org/document/9318504
+Link: https://ieeexplore.ieee.org/document/9318504
 
 ## Prerequisites:
 
