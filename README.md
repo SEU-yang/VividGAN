@@ -1,7 +1,8 @@
 # VividGAN-TIP2021
 
-Code for paper Face Hallucination With Finishing Touches (TIP 2021). 
-! https://ieeexplore.ieee.org/document/9318504
+Code for Face Hallucination With Finishing Touches (TIP 2021). 
+
+!https://ieeexplore.ieee.org/document/9318504
 
 ## Prerequisites:
 
@@ -19,11 +20,9 @@ python train.py
 
 Change the option in train.py to set the dataset's directory. 
 
-
 ## Test
 
 python test.py
-
 
 ## Citation
 
